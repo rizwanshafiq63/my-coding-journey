@@ -1,7 +1,5 @@
 ---
-layout: default
 title: "My Blogs"
-permalink: /blog/
 ---
 
 # 📝 My Blogs

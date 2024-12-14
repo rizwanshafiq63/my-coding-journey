@@ -1,6 +1,5 @@
 ---
-layout: default
-title: "Welcome to My Digital Playground 🚀"
+title: "Home"
 ---
 # Welcome to My Digital Playground 🚀  
 
