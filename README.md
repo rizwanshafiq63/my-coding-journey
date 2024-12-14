@@ -60,7 +60,7 @@ Here’s a quick look at the structure of this repository:
 ## 🚀 Get in Touch
 Let’s connect and collaborate!
 - 🐙 **GitHub:** [rizwanshafiq63](https://github.com/rizwanshafiq63)
-- 💼 **LinkedIn:** [Rizwan Shafiq](https://www.linkedin.com/in/rizwanshafiq63/)
+- 💼 **LinkedIn:** [Muhammad Rizwan Shafiq](https://www.linkedin.com/in/rizwanshafiq63/)
 - 🐦 **Twitter:** [@RizwanShafiq63](https://x.com/RizwanShafiq63?s=09)
 - 📧 **Email:** [rizwanshafiq63@gmail.com](mailto:rizwanshafiq63@gmail.com)
 
