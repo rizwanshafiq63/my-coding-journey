@@ -1,3 +1,7 @@
+---
+layout: default
+title: "🚧 My Projects"
+---
 # 🚧 My Projects  
 
 I’m currently working on adding my projects to this page. Stay tuned for updates!  

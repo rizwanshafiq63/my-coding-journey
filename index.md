@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Welcome to My Digital Playground 🚀"
+---
 # Welcome to My Digital Playground 🚀  
 
 Hi there! I'm **Rizwan Shafiq** 👋  
@@ -15,9 +19,9 @@ Because I’m all about pushing boundaries, learning something new every day, an
 ---
 
 ## 🔗 Navigation  
-- [About Me](pages/about.md)  
-- [My Blogs](blog.md)  
-- [My Projects](pages/projects.md)  
+- [About Me](about/)  
+- [My Blogs](blog/)  
+- [My Projects](projects/)  
 
 ---
 
