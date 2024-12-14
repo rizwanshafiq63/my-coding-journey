@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Welcome to My Digital Playground 🚀"
+---
 # Welcome to My Digital Playground 🚀  
 
 Hi there! I'm **Rizwan Shafiq** 👋  

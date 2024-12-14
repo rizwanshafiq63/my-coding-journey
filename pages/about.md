@@ -1,3 +1,7 @@
+---
+layout: default
+title: "About Me 🌟"
+---
 # About Me 🌟  
 
 Hi, I’m **Rizwan Shafiq**—a Computer Science student, tech enthusiast, and lifelong learner. Welcome to my corner of the internet!  
