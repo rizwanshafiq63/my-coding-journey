@@ -1,0 +1,12 @@
+theme: minima
+title: Rizwan Shafiq's Coding Journey  
+author: Rizwan Shafiq  
+description: Exploring web development, ethical hacking, AI, and more as a passionate CS student and lifelong learner.  
+
+header_links:
+  - title: "About Me"
+    url: /pages/about.md
+  - title: "My Blogs"
+    url: /blog/
+  - title: "My Projects"
+    url: /pages/projects.md
