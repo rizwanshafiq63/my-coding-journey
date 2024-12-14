@@ -1,7 +1,6 @@
 ---
 title: "Embarking on a Tech Adventure 🚀"
 date: 2024-12-11
-layout: default
 ---
 
 # 🌟 Welcome to My First Blog Post! 🌟
