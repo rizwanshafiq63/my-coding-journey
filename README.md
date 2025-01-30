@@ -12,15 +12,11 @@ Hi, I’m **Rizwan Shafiq**, a passionate Computer Science student and tech enth
 
 ## 🛠️ Tech Stack
 Here are some of the tools and technologies I work with:
-- **Languages:** C++, Java, Python, JavaScript, HTML, CSS
+- **Languages:** C++, Java, Python, HTML, CSS
 - **Frameworks/Tools:** Jekyll, WordPress, Adobe Illustrator, Canva
-- **Platforms:** Windows, Arch Linux, Hyprland, Git, GitHub, VS Code, Jupyter Notebooks
+- **Platforms:** Windows, Arch Linux, Kali Linux, Hyprland, Git, GitHub, GitHub Pages, VS Code, Jupyter Notebooks
 - **AI Knowledge:** Completed a course on ChatGPT
 
-## 🌐 Blog Highlights
-Check out my latest blog post:
-- [Embarking on a Tech Adventure 🚀](./_posts/2024-12-11-my-first-blog-post.md)
-- [My Java & C++ Database Projects](./_posts/2024-12-30-my-java-cpp-database-projects.md)
 
 ## 📂 Project Structure
 Here’s a quick look at the structure of this repository:
@@ -57,15 +53,6 @@ Here’s a quick look at the structure of this repository:
    - **`_config.yml`**: Configuration file containing site settings such as theme, title, author, and social links.
    - **`LICENSE`**: Specifies the license for this repository.
    - **`README.md`**: The file you’re currently reading!
-
----
-
-## 🔗 Links to My Projects
-
-- 📂 **[All Projects Repository](https://github.com/rizwanshafiq63/semester-projects-repo)** – A collection of projects made throughout my academic journey.
-- 📂 **[OOP-with-Java](https://github.com/rizwanshafiq63/OOP-with-Java.git)** – Object-Oriented Programming concepts and mini-projects.
-- 📂 **[DSA-with-Cpp](https://github.com/rizwanshafiq63/DSA-with-Cpp.git)** – Data Structures & Algorithms practice and implementations.
-- 📂 **[Java-2nd-Semester](https://github.com/rizwanshafiq63/Java-2nd-Semester.git)** – Well-structured Java assignments, graded tasks, and keynotes.
 
 ---
 
