@@ -12,6 +12,8 @@ Ever since I wrote my first line of code, I’ve been hooked on the endless poss
 - 🛡️ **Ethical Hacking**: Cybersecurity is crucial in today’s world, and I’m excited to learn and contribute.  
 - 🎨 **Creative Design**: Using tools like Adobe Illustrator and Canva, I bring ideas to life visually.  
 
+I am proficient in **Python** and currently exploring **Java** and **C++**. I’ve worked with **Windows**, and now, I’m enjoying working with **Arch Linux**, which I’ve gotten quite familiar with. I also use **Kali Linux** in a virtual box for my ethical hacking experiments. My love for coding keeps me constantly learning and experimenting with new technologies and challenges!  
+
 ## 🎯 My Vision  
 I aim to innovate and solve real-world problems through technology while sharing my journey with others. Whether it’s collaborating on projects, contributing to open-source, or connecting with like-minded people, I’m all in.  
 
@@ -26,4 +28,4 @@ Let’s connect and grow together:
 
 ---
 
-✨ *"Technology is not just a tool, but a gateway to endless possibilities."*  
+✨ *"Technology is not just a tool, but a gateway to endless possibilities."*
